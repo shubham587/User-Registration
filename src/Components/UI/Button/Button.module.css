@@ -1,0 +1,9 @@
+.btn {
+    padding: 2%;
+    width: 20%;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    background: linear-gradient(180deg, #307e6c, #89e0c3);
+        
+}
